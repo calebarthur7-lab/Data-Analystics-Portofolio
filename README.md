@@ -60,7 +60,7 @@ Le dashboard comprend notamment :
 ## 🎓 Formation
 
 ### Master spécialisé — Data Management & AI for Business
-**Première année**
+**Première année (Recherche Satge/Alternance)**
 
 Formation orientée vers l’exploitation des données dans des contextes professionnels et business, avec un intérêt particulier pour :
 
@@ -94,12 +94,11 @@ Développer une expertise solide en **Data Analysis et Business Intelligence**, 
 
 ## 🤝 Contact
 
-**Caleb Wanu**  
-📊 Data Analyst  
-🎓 Data Management & AI for Business
+**Caleb WHANNOU**  
+- whannouarthur660@gmail.com
+- 0759283097
 
 ---
 
 ⭐ *Merci de visiter mon portfolio. Ce dépôt évoluera au fil de mes projets et de ma progression dans le domaine de la data.*
-
 
