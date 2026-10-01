@@ -82,13 +82,13 @@ Développer une expertise solide en **Data Analysis et Business Intelligence**, 
 
 ## 📌 Ce portfolio va progressivement s'enrichir
 
-- 📊 Dashboards Power BI
-- 🗄️ Analyses SQL & BigQuery
-- 🐍 Projets Python
-- 📈 Analyses de données
-- 🔄 Projets Power Query
-- ⚙️ Automatisations Excel / VBA
-- 🧠 Projets Data Management & AI for Business
+- Dashboards Power BI
+- Analyses SQL & BigQuery
+- Projets Python
+- Analyses de données
+- Projets Power Query
+- Automatisations Excel / VBA
+- Projets Data Management & AI for Business
 
 ---
 
