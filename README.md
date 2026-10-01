@@ -1,4 +1,3 @@
-# Data-Analystics-Portofolio
 # 👋 Bonjour, je suis Caleb
 
 ### 📊 Data Analyst | Data Management & AI for Business
