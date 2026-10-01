@@ -1,9 +1,10 @@
 # Data-Analystics-Portofolio
-# 👋 Caleb WHANNOU
+# 👋 Bonjour, je suis Caleb
 
 ### 📊 Data Analyst | Data Management & AI for Business
+# Bienvenue sur mon portofolio Data !
 
-Je suis **Data Analyst**, actuellement en première année d’un **Master spécialisé en Data Management & AI for Business**.
+Je suis **Data Analyst Junior**, actuellement en première année d’un **Master spécialisé en Data Management & AI for Business**.
 
 Je m’intéresse à la manière dont la donnée peut être transformée en **information claire, mesurable et utile à la prise de décision**.
 
@@ -92,11 +93,12 @@ Développer une expertise solide en **Data Analysis et Business Intelligence**, 
 
 ---
 
-## 🤝 Contact
+## 📱 Me contacter
 
 **Caleb WHANNOU**  
 - whannouarthur660@gmail.com
 - 0759283097
+- Linkedln: https://www.linkedin.com/in/arthur-whannou-2043793b3/
 
 ---
 
