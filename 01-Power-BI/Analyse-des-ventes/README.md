@@ -2,7 +2,7 @@
 
 > **Cas d'étude fictif — Business Intelligence & Data Analytics**
 
-## 🏢 1. Business Case
+## 🏢 Business Case
 
 L'entreprise étudiée est une **entreprise fictive spécialisée dans la vente de vélos**, disposant de plusieurs catégories de produits et de données de ventes, d'inventaire et de satisfaction client.
 
@@ -21,7 +21,7 @@ Face à cette situation, la Direction Générale souhaite disposer d'une vision 
 
 ---
 
-## ❓ 2. Problématique
+## ❓ Problématique
 
 > **Comment exploiter les données commerciales, produits, stocks et satisfaction client afin de fournir à la direction une vision claire de la performance de l'activité et d'identifier les principaux points d'attention ?**
 
@@ -37,7 +37,7 @@ L'étude cherche notamment à répondre aux questions suivantes :
 
 ---
 
-## 🎯 3. Objectifs de l'étude
+## 🎯 Objectifs de l'étude
 
 Le projet vise à construire un **outil de pilotage Business Intelligence** permettant de :
 
@@ -75,7 +75,7 @@ Le modèle sémantique repose sur quatre tables principales :
 
 Les relations entre ces tables permettent de croiser les données commerciales, produits, clients et temporelles dans un même modèle analytique.
 
-![Modèle sémantique](assets/modele-semantique.png)
+![Modèle sémantique](assets/modèle_sémantique.png)
 
 ---
 
@@ -95,7 +95,7 @@ Le dashboard permet également d'examiner :
 - l’évolution mensuelle du chiffre d’affaires ;
 - la performance selon la catégorie sélectionnée.
 
-![Vue Direction](assets/vue-direction.png)
+![Vue Direction](assets/vue_direction.png)
 
 ### 🔎 Premiers constats visibles dans le dashboard
 
@@ -129,7 +129,7 @@ La page permet ensuite d’identifier les produits concernés et de consulter pl
 - chiffre d’affaires ;
 - score moyen de satisfaction.
 
-![Vue Alerte Stock](assets/vue-alerte-stock.png)
+![Vue Alerte Stock](assets/vue_alerte_stock.png)
 
 ### 🎯 Intérêt métier
 
