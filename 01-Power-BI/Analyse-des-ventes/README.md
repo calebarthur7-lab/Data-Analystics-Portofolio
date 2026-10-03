@@ -75,7 +75,7 @@ Le modèle sémantique repose sur quatre tables principales :
 
 Les relations entre ces tables permettent de croiser les données commerciales, produits, clients et temporelles dans un même modèle analytique.
 
-![Modèle sémantique](assets/modèle_sémantique.png)
+![Modèle sémantique](assets/modele-semantique.png)
 
 ---
 
@@ -95,7 +95,7 @@ Le dashboard permet également d'examiner :
 - l’évolution mensuelle du chiffre d’affaires ;
 - la performance selon la catégorie sélectionnée.
 
-![Vue Direction](assets/vue_direction.png)
+![Vue Direction](assets/vue-direction.png)
 
 ### 🔎 Premiers constats visibles dans le dashboard
 
@@ -129,7 +129,7 @@ La page permet ensuite d’identifier les produits concernés et de consulter pl
 - chiffre d’affaires ;
 - score moyen de satisfaction.
 
-![Vue Alerte Stock](assets/vue_alerte_stock.png)
+![Vue Alerte Stock](assets/vue-alerte_stock.png)
 
 ### 🎯 Intérêt métier
 
