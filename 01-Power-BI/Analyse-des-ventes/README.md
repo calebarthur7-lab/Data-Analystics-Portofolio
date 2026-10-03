@@ -214,8 +214,8 @@ Le projet peut être prolongé par plusieurs analyses :
 
 ## 👤 À propos
 
-**Caleb Wanu**  
-Data Analyst | Master spécialisé — Data Management & AI for Business
+**Caleb WHANNOU**  
+Data Analyst Junior | Master spécialisé — Data Management & AI for Business
 
 Je m’intéresse à la transformation des données en **insights compréhensibles et exploitables**, avec un intérêt particulier pour la Data Analysis, la Business Intelligence et les problématiques de Data Management.
 
