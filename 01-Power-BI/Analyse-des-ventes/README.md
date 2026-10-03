@@ -1,29 +1,53 @@
 # 📊 Analyse des ventes & pilotage des stocks
 
-## 🎯 Présentation
+> **Cas d'étude fictif — Business Intelligence & Data Analytics**
 
-Ce projet consiste à concevoir un **dashboard Power BI orienté pilotage commercial et gestion des stocks**.
+## 🏢 1. Business Case
 
-L’objectif est de transformer des données de ventes, d’inventaire et de satisfaction client en **indicateurs simples à exploiter**, afin de fournir à la fois une vision globale de la performance et une vue opérationnelle des produits nécessitant une attention particulière.
+L'entreprise étudiée est une **entreprise fictive spécialisée dans la vente de vélos**, disposant de plusieurs catégories de produits et de données de ventes, d'inventaire et de satisfaction client.
 
-Le rapport est organisé autour de deux espaces complémentaires :
+Au cours du dernier trimestre, la direction a consacré **plusieurs centaines de milliers d'euros à des actions marketing et publicitaires** afin de soutenir la croissance commerciale. Malgré cet investissement important, les résultats commerciaux observés n'ont pas atteint les attentes de la direction.
 
-- **Vue Direction** : synthèse de la performance commerciale ;
-- **Vue Alerte Stock** : identification des produits en situation de stock critique.
+Face à cette situation, la Direction Générale souhaite disposer d'une vision factuelle de la performance afin de comprendre la situation et d'identifier les principaux points d'attention.
+
+### 👥 Parties prenantes
+
+| Partie prenante | Besoin métier |
+|---|---|
+| 👤 **Direction Générale** | Obtenir une vision synthétique de la performance et disposer d'éléments factuels pour orienter les décisions |
+| 📈 **Direction Commerciale** | Comprendre les performances des ventes et identifier les catégories les plus contributrices |
+| 💬 **Direction de la Relation Client** | Suivre la satisfaction et identifier les signaux nécessitant une analyse complémentaire |
+| 📊 **Équipe Data / Analyste** | Structurer les données, produire les KPI et transformer les données en insights |
 
 ---
 
-## 💡 Problématique métier
+## ❓ 2. Problématique
 
-Comment permettre à une équipe de pilotage de :
+> **Comment exploiter les données commerciales, produits, stocks et satisfaction client afin de fournir à la direction une vision claire de la performance de l'activité et d'identifier les principaux points d'attention ?**
 
-- suivre rapidement le chiffre d’affaires ;
-- mesurer l’activité commerciale ;
-- suivre la satisfaction client ;
-- comparer la contribution des catégories de produits ;
-- analyser l’évolution du chiffre d’affaires dans le temps ;
-- identifier les produits dont le niveau de stock nécessite une attention particulière ;
-- disposer d’une information visuelle permettant de faciliter l’analyse et la prise de décision ?
+L'étude cherche notamment à répondre aux questions suivantes :
+
+- Quel est le chiffre d'affaires généré par l'activité ?
+- Comment évolue-t-il dans le temps ?
+- Quelles catégories contribuent le plus aux ventes ?
+- Quel est le niveau d'activité commerciale ?
+- Quel est le niveau de satisfaction client ?
+- Quels produits présentent un niveau de stock critique ?
+- Quels produits ou catégories méritent une analyse complémentaire ?
+
+---
+
+## 🎯 3. Objectifs de l'étude
+
+Le projet vise à construire un **outil de pilotage Business Intelligence** permettant de :
+
+1. **Mesurer** la performance commerciale ;
+2. **Comparer** les catégories de produits ;
+3. **Analyser** les évolutions temporelles ;
+4. **Surveiller** la satisfaction client ;
+5. **Identifier** les produits en situation de stock critique ;
+6. **Faciliter** la prise de décision grâce à une restitution visuelle.
+
 
 ---
 
