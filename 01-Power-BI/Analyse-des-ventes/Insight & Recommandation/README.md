@@ -4,7 +4,7 @@
 
 ---
 
-# 💡 Insights & Recommandation
+# 💡 Insights & interpretation
 
 ### 1. Contribution différente selon les catégories
 
