@@ -129,7 +129,7 @@ La page permet ensuite d’identifier les produits concernés et de consulter pl
 - chiffre d’affaires ;
 - score moyen de satisfaction.
 
-![Vue Alerte Stock](assets/vue-alerte_stock.png)
+![Vue Alerte Stock](assets/vue-alerte-stock.png)
 
 ### 🎯 Intérêt métier
 
