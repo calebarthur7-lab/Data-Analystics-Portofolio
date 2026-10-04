@@ -210,6 +210,12 @@ Le projet peut être prolongé par plusieurs analyses :
 - automatisation de l’actualisation des données ;
 - ajout d’indicateurs de performance avec objectifs et écarts.
 
+## 💡 Insights et recommandations
+
+Découvrez les principaux insights de 
+l'analyse et les recommandations métier.
+
+👉 [Consulter les insights et recommandations](./Insight%20%26%20Recommandation/README.md)
 ---
 
 ## 👤 À propos
