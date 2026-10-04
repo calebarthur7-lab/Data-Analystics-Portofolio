@@ -14,18 +14,18 @@ Mon approche se situe à la croisée de la **Data Analysis, de la Business Intel
 ## 🧰 Stack Data
 
 ### 📊 Analyse & Business Intelligence
-- **Excel**
-- **Power BI**
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black)
 - **DAX**
 - **Power Query**
 
 ### 🗄️ Data & SQL
-- **SQL**
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - **Google BigQuery**
 - Data modeling
 - Data preparation & data quality
 
-### 🐍 Python
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Python**
 - Pandas
 - NumPy
