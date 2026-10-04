@@ -6,37 +6,37 @@
 
 # 💡 Insights & interpretation
 
-### 1. Contribution différente selon les catégories
+L’analyse des données permet de faire émerger plusieurs insights clés sur la performance commerciale, l’évolution du chiffre d’affaires, la satisfaction client et la gestion des stocks, afin d’identifier les principaux enjeux business et d’orienter les décisions.
 
-Les catégories ne contribuent pas de manière identique au chiffre d'affaires. Les catégories **Vélo Piste** et **VTT** apparaissent comme les plus contributrices dans la vue présentée.
+### Insight 1- Contribution différente selon les catégories
+
+Les catégories **Vélo Piste et VTT** représentent chacune environ **6,8 M€ de chiffre d’affaires**, soit les contributions les plus importantes du portefeuille. À l’inverse, les catégories Vélo Urbain et Vélo Enfant génèrent des volumes plus faibles.
 
 **Point d'analyse :** approfondir les facteurs pouvant expliquer ces écarts : volumes, prix, disponibilité ou mix produit.
 
-### 2. Variation du chiffre d'affaires
+### Insights 2- Variation du chiffre d'affaires
 
-La baisse observée entre avril et mai constitue un **signal à investiguer**, mais pas une conclusion sur sa cause.
+Le chiffre d’affaires passe de **16,70 M€ en avril** à **15,25 M€ en mai**, soit une diminution d’environ **1,45 M€ (-8,7 %)**.
 
 Une analyse complémentaire pourrait rapprocher cette variation :
-
 - des quantités vendues ;
 - des catégories ;
 - de la disponibilité des stocks ;
 - des actions commerciales ;
 - des campagnes marketing.
 
-### 3. Produits en stock critique
+### Insight 3- Produits en stock critique
 
 Les **15 produits identifiés comme critiques** constituent un point d'attention opérationnel.
 
-Il serait pertinent de vérifier si ces références présentent une vitesse de vente importante afin d'évaluer leur impact potentiel sur l'activité.
+Il serait pertinent de croiser les niveaux de stock avec les ventes afin de prioriser les réapprovisionnements.
 
-### 4. Satisfaction client
+### Insight 4- Satisfaction client
 
 Le score moyen affiché de **4,05 / 5** fournit un indicateur synthétique de satisfaction.
 
 Une analyse par produit, catégorie ou période permettrait d'identifier d'éventuels écarts par rapport à cette moyenne.
 
-### 5. 
 ---
 
 # 🎯 Recommandations
@@ -47,14 +47,15 @@ Les recommandations ci-dessous constituent des **pistes d'analyse et d'action**,
 
 - approfondir l'analyse des catégories les plus contributrices ;
 - identifier les produits à forte contribution au chiffre d'affaires ;
-- analyser les variations mensuelles ;
+- approfondir l'analyse les variations mensuelles ;
 - croiser les ventes avec la disponibilité des stocks.
 
 ### 📦 Gestion des stocks
 
 - surveiller les références identifiées comme critiques ;
 - comparer stock disponible, quantités vendues et fréquence de réapprovisionnement ;
-- définir des seuils d'alerte adaptés à la vitesse de vente.
+- définir des seuils d'alerte adaptés à la vitesse de vente;
+- à terme, intégrer des prévisions de demande pour anticiper les besoins.
 
 ### 💬 Direction de la Relation Client
 
