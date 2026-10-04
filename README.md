@@ -98,7 +98,19 @@ Développer une expertise solide en **Data Analysis et Business Intelligence**, 
 - whannouarthur660@gmail.com
 - 0759283097
 - Linkedln: https://www.linkedin.com/in/arthur-whannou-2043793b3/
+---
+## 🚀 Mes projets
 
+### 📊 Analyse des ventes et gestion des stocks
+
+**Outil :** Power BI | DAX | Power Query
+
+Analyse des performances commerciales,
+suivi des stocks et création de tableaux
+de bord interactifs pour faciliter
+la prise de décision.
+
+👉 [Voir le projet Power BI](./01-Power-BI/Analyse-des-ventes/README.md)
 ---
 
 ⭐ *Merci de visiter mon portfolio. Ce dépôt évoluera au fil de mes projets et de ma progression dans le domaine de la data.*
