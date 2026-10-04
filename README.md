@@ -96,8 +96,8 @@ Développer une expertise solide en **Data Analysis et Business Intelligence**, 
 
 **Caleb WHANNOU**  
 - whannouarthur660@gmail.com
-- 0759283097
 - Linkedln: https://www.linkedin.com/in/arthur-whannou-2043793b3/
+- Tel: 0759283097
 ---
 ## 🚀 Mes projets
 
